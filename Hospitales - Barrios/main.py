@@ -1,3 +1,7 @@
+#Creadores:
+#Miguel Angel Pardo Lopez
+#Sergio Leonarado Moscoso Ramirez
+
 import tkinter as tk
 from View.GUI import HospitalDistributionView
 from controller.app_controller import AppController
